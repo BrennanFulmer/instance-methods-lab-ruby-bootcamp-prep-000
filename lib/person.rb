@@ -4,5 +4,6 @@ class Person
   end
   
   def sit
+    
   end
 end
